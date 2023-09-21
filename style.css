@@ -184,7 +184,7 @@ header .hero-image .photo-bg {
 	position: absolute;
 }
 
-.nav-btn-container.close-btn {
+.nav-btn-container .close-btn {
 	opacity: 0;
 	pointer-events: none;
 	transform: translateY(-8px);
@@ -207,6 +207,7 @@ header .hero-image .photo-bg {
 	pointer-events: auto;
 	transform: translateY(0);
 }
+
 
 /* Hidden Items */
 .search-box {
